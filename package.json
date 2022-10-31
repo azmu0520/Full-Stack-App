@@ -1,0 +1,34 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "Social Network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmu0520/Full-Stack-App.git"
+  },
+  "author": "Azizbek Mukhtorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azmu0520/Full-Stack-App/issues"
+  },
+  "homepage": "https://github.com/azmu0520/Full-Stack-App#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.8",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5",
+    "reuest": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "concurrently": "^7.4.0",
+    "nodemon": "^2.0.20"
+  }
+}

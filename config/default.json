@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://aziko:azmu1420@cluster0.5ofjtmm.mongodb.net/?retryWrites=true&w=majority",
+  "jwtToken": "azmu0520wba"
+}
